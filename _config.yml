@@ -14,10 +14,6 @@ collections:
  - interviews
  - bakednotfried
  
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  
 sass:
   style: compressed
  
