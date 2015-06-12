@@ -101,7 +101,7 @@ $baseheadingfontweight 			: bold;
 $baseheadingfontcolor 			: inherit;
 
 // Often you’ll use an alternative typeface (eg: for buttons, form inputs and tables)
-$altfontfamily 					: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$altfontfamily 					: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $altlineheight 					: 1.35em;
 
 // You can choose a special typeface just for ampersands too
@@ -135,7 +135,7 @@ $white 							: rgb(255,255,255);
 // Choose a colour for your hyperlinks. Often this will be the $primarycolor 
 $linkcolor 		    			: $primarycolor;
 $linkcolorhover 				: darken($linkcolor, 10);
-$linkcolorvisited   			: darken($linkcolorhover, 10);
+$linkcolorvisited   			: lighten($linkcolorhover, 20);
 $linkcolorfocus 				: darken($linkcolorvisited, 10);
 
 // Now define another set of colours. These will be used to style alerts and buttons
@@ -221,7 +221,7 @@ $navigationbordercolor 			: darken($navigationbackgroundcolor,10%);
 $navigationlinkcolor			: $white;
 
 // :hover
-$navigationlinkcolorhover		: darken($navigationlinkcolor,10%);
+$navigationlinkcolorhover		: darken($navigationlinkcolor,30%);
 
 
 
@@ -679,7 +679,7 @@ $tablefontfamily 				: $altfontfamily;
 // MISC =============================================================================
 
 // Set a default duration for CSS transitions
-$transitionduration				: .25s;
+$transitionduration				: 1.5s;
 
 
 

@@ -1,3 +1,92 @@
 ---
 layout: default
+title: creative thoughtful sustainability
 ---
+
+<section class="l-panel">
+<div class="l-wrap">
+<div class="l-summary">
+    <h6>Baked not fried</h6>
+    {% for post in site.categories(baked) limit:2 %}
+    <article class="post">
+    <h5 class="nospace"><a href="{{ post.url }}">{{ post.title }}</a></h5>
+    <p>{{ post.description }}</p>
+    </article>
+    {% endfor %}
+</div><!-- l-summary -->
+<div class="l-content">
+<h2>From the interviews</h2>
+{% for post in site.categories(interview) limit:1 %}
+    <article class="post">
+    <h1 class="journal"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    <h2 class="by">{{ post.date | date: "%d %B %Y" }}</h2>
+    <p>{{ post.excerpt }}</p>
+    <a href="{{ post.url }}" class="btn  btn-info">Read Post</a>
+    </article>
+    <hr>
+    {% endfor %}
+    </div><!-- content -->
+</div><!-- l-wrap -->
+</section><!-- section -->
+
+<!-- Next ============================== -->
+
+<section class="l-panel info">
+<div class="l-wrap">
+				<div class="section group">
+					<div class="col span_1_of_2">
+					<h1>Leicester market</h1>
+                        <p>If you live in Leicester or Leicestershire you have no excuse not to come visit Leicester market. You can buy some lovely fruit and veg at bargain prices. You just need to know a few things first.</p>
+                        <ul>
+                        <li>Tuesday, Wednesday & Friday are the best days</li>
+                        <li>Walk around the market first before you buy anything</li>
+                        <li>Buy produce that is mainly in season</li>
+                        <li>Not all the stalls are in the same place each day</li>
+                        <li>Some people run two stalls</li>
+                        <li>These are my favourite stalls: Hills, Cottingham, Lunn's, Garcia's, Pittard's & Norton's </li>
+                        <li>Don't help yourself unless it is clearly marked</li>
+                        <li>Get to know the stall holders—it makes a huge difference</li>
+                        </ul>
+					</div>
+					<div class="col span_1_of_2">
+					<h1>What's good this week</h1>
+                                                <p>Summer fruit and veg has just started to come in. Lots of Spanish cherries, apricots and raspberries are available. Cherry tomatoes, herbs, spinach, broccoli, spring onions. Mangoes have been really good over the last few weeks. I think it's too early to buy good watermelon. There are English strawberries but I think they are grown in poly tunnels.</p>
+                        <img src="/img/leicester-market-tomatoes.jpg" alt="{{ image.title }}"
+					</div>
+				</div>
+    </div><!-- l-wrap -->
+</section><!-- section -->
+    
+<!-- Next ============================== -->
+
+<!-- start -->
+<section class="l-panel">
+<div class="l-wrap">
+<h2>About Me</h2>
+
+<div class="l-summary">
+<p>My name is rajiv and I run ZUKINI. I've been doing this for the last two years.</p>
+<img src="/img/me.jpg" alt="photo of rajiv"/>
+</div><!-- l-summary -->
+
+<div class="l-content">
+<h1>Food is fun</h1>
+<p>I've solely been eating plant based foods for over 16 years. I've had a passion for eating natural foods for a very long time, I love experimenting with food. I enjoy yoga and massage, and I have lots of experience in both. My <a href="http://www.zerply.com/profile/yomojo/public">Zerply profile</a> has information about me.</p>
+    <p>I've lived and worked in London for many years and ran a health food store there for several years, wholesaled fruit and veg—that I bought from New Covent Garden market. I've lived in France and ran a stall in the market making and selling food for a couple of years.</p>
+    <p>Food—making and buying it has been a part of my life since I was a teenager, so I have lots of experience. Now I'm on my next part of this adventure.</p>
+</div><!-- l-content -->
+</div><!-- l-wrap -->
+</section><!-- section -->
+<!-- Next ============================== -->
+    
+
+<div class="l-wrap">
+<div class="hero-unit">
+<h1>Luvin’ Summer Blending with rajiv</h1>
+<p>I'm going to be showing you many different and fun ways you can use a blender—a blender is not just for smoothies! <b>Everyone is welcome</b>: 7.30pm at the Quaker Meeting House, Queen's Road, Leicester LE2 1WP. This is part of a series of events the Leicestershire vegetarian and vegan group organise.</p>
+<p><a href="http://www.leicesterveggies.org.uk/" class="btn btn-primary btn-large">More details about the group</a></p>
+</div>
+</div><!-- l-wrap -->
+
+
+<!-- Next ============================== -->

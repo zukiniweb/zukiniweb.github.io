@@ -17,7 +17,9 @@ width : 100%;
 > .item {
 display : none;
 position : relative;
-@include transition (left $transitionduration ease); }
+transition-duration: $transitionduration;
+@include transition (left $transitionduration ease); 
+}
 
 > .item > img {
 display : block;
@@ -29,7 +31,8 @@ line-height : 1; }
 display : block; }
 
 > .active {
-left : 0; }
+left : 0; 
+}
 
 > .next,
 > .prev {

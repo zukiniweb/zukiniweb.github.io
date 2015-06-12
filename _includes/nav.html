@@ -1,13 +1,17 @@
 <a href="#navigation-toggle" class="navigation-toggle">Menu</a>
-<nav id="navigation-toggle" role="navigation">
-<ul>
-<li><a href="#panel-typography">Typography</a></li>
-<li><a href="#panel-colour">Colour</a></li>
-<li><a href="#panel-images">Images</a></li>
-<li><a href="#panel-navigation">Navigation</a></li>
-<li><a href="#panel-modules">Modules</a></li>
-<li><a href="#panel-forms">Forms</a></li>
-<li><a href="#panel-tables">Tables</a></li>
-<li><a href="#panel-widgets">Widgets</a></li>
+<nav id="navigation-toggle" class="equal" role="navigation">
+<ul class="row">
+<li {% if page.url == '/index.html' %} class="active" {% endif %}><a href="/index.html" class="nav-head">Home
+    <p class="nav-text">The home of ZUKINI with all the latest information & news on plant based sustainable living.</p>
+    </a></li>
+<li {% if page.url == '/veggiebite.html' %} class="active" {% endif %}><a href="/veggiebite.html" class="nav-head">Veggie Bite
+    <p class="nav-text">Checkout what's on the menu this week and special offers. Suitable for vegans & vegetarians.</p>
+    </a></li>
+<li {% if page.url == '/interviews.html' %} class="active" {% endif %}><a href="/interviews.html" class="nav-head">Interviews
+    <p class="nav-text">Interviews with people from all walks of life who only eat plant based foods.</p>
+    </a></li>
+<li {% if page.url == '/bakednotfried.html' %} class="active" {% endif %}><a href="/bakednotfried.html" class="nav-head">Baked Not Fried
+    <p class="nav-text">Recipes, yoga, bicyles, thoughts, ideas & news to inspire you, feed you and challenge you.</p>
+    </a></li>
 </ul>
 </nav>

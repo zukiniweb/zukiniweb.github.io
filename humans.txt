@@ -1,8 +1,8 @@
 /* humanstxt.org */
 
-Name: 					eg: Andy Clarke
-Site:					eg: http://stuffandnonsense.co.uk
-Twitter:				eg: @malarkey
+Name: 					eg: Rajiv Shah
+Site:					eg: http://zukini.co.uk
+Twitter:				eg: @rajivshah
 Location:				eg: UK
 
 Default theme design:

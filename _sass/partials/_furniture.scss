@@ -11,8 +11,9 @@
 // 6. LAYOUT 				==============================
 
 .l-panel {
-border-top : $borderwidth $borderstyle lighten($primarycolor, 25%);
-border-bottom : 7px $borderstyle $neutralcolor;
+//border-top : $borderwidth $borderstyle lighten($primarycolor, 25%);
+//border-bottom : 7px $borderstyle $neutralcolor;
+padding: 3em 12px 0.75em 12px;
 
 &:first-child { 
 border-top-width : 0;
@@ -109,7 +110,7 @@ border-bottom-width : 0; }
 margin : 0;
 padding : 0;
 background-color : rgb(245,244,231);
-background-image : url(l-introduction.png);
+background-image : url(/img/.jpg);
 background-position : 50% 100%;
 background-repeat : repeat-x;
 
@@ -123,6 +124,10 @@ border-width : 0;
 @include font-size(14);
 text-align : center; }
 }
+}
+
+.home {
+background: url(/img/cacao-mint-icecream.jpg) 0 0 no-repeat;
 }
 
 #panel-images-hidden img {
@@ -168,6 +173,10 @@ a, a:visited { color : $white; }
 }
 }
 }
+}
+
+.l-introduction.nothome {
+padding : $baselineheight * 1 0 $baselineheight * 0.5 0;    
 }
 
 .hidden hr {
@@ -270,4 +279,105 @@ visibility : visible; }
 .t-hide {
 @include media-query-bp($bp4) {
 @include hidden; }
+}
+
+.info {
+background-color: #b15b4b;
+color: rgba(255,255,255,0.9);
+}
+
+
+/*  SECTIONS  ============================================================================= */
+
+
+	.col { 
+		margin: 1% 0 1% 0%;
+	}
+
+@include media-query-bp($bp4) {
+.section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+/*  GROUPING  ============================================================================= */
+
+
+.group:before,
+.group:after {
+    content:"";
+    display:table;
+}
+.group:after {
+    clear:both;
+}
+.group {
+    zoom:1; /* For IE 6/7 (trigger hasLayout) */
+}
+
+/*  GRID COLUMN SETUP   ==================================================================== */
+
+
+
+
+
+.col {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 1.6%;
+}
+
+.col:first-child { margin-left: 0; } /* all browsers except IE6 and lower */
+
+}
+
+
+/*  GRID OF TWO   ============================================================================= */
+
+
+	.span_2_of_2 {
+		width: 100%; 
+	}
+	.span_1_of_2 {
+		width: 100%; 
+	}
+
+@include media-query-bp($bp4) {
+.span_2_of_2 {
+	width: 100%;
+}
+
+.span_1_of_2 {
+	width: 49.2%;
+}
+}
+
+
+
+/*  GRID OF THREE   ============================================================================= */
+
+
+	.span_3_of_3 {
+		width: 100%; 
+	}
+	.span_2_of_3 {
+		width: 100%; 
+	}
+	.span_1_of_3 {
+		width: 100%;
+	}
+    
+ @include media-query-bp($bp4) {
+  .span_3_of_3 {
+	width: 100%; 
+}
+
+.span_2_of_3 {
+	width: 66.13%; 
+}
+
+.span_1_of_3 {
+	width: 32.26%; 
+}   
 }

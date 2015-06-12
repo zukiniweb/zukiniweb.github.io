@@ -1,0 +1,22 @@
+---
+layout: default
+title: baked not fried
+---
+<section class="l-panel" id="panel-typography">
+
+<div class="l-wrap">
+<h2>Baked not fried</h2>
+
+<div class="journal">
+    {% for post in site.categories(baked) %}
+    <article class="post">
+    <h1 class="journal"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    <h2 class="by">{{ post.date | date: "%d %B %Y" }}</h2>
+    <p>{{ post.description }}</p>
+    <a href="{{ post.url }}" class="btn  btn-info">Read Post</a>
+    </article>
+    <hr>
+    {% endfor %}
+</div><!-- l-content -->
+</div><!-- l-wrap -->    
+</section>

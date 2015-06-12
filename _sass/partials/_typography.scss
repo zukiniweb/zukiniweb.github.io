@@ -19,30 +19,89 @@ color : $lightneutralcolor; }
 h1,
 .h1 {
 @include font-size($basefontsize * 2);
-line-height: 1.2;
-margin-bottom: $baselineheight / 2; }
+font-family: $altfontfamily;
+line-height: 1.5;
+margin-bottom: $baselineheight / 2; 
+}
+
+.hero-unit h1.logo-home {
+font-size: 14rem;
+font-weight: 700;
+letter-spacing: -1.9rem;
+line-height: 15.4rem;
+text-transform: uppercase;
+color: rgb(146,154,0);
+@include media-query-bp($bp4)
+{ font-size: 19rem;
+    
+}
+}
+
+.hero-unit h1.logo {
+font-size: 3rem;
+font-family: $altfontfamily;
+font-weight: 700;
+letter-spacing: -0.2rem;
+line-height: 1.5rem;
+text-transform: uppercase;
+color: rgb(146,154,0);
+}
+
+h1.journal  {
+line-height: 0.5rem;
+}
+
+h1.by {
+line-height: 0;
+}
 
 h2,
 .h2 {
-@include font-size($basefontsize * 1.5);
-line-height: 1.2;
+@include font-size($basefontsize * 1);
+font-weight: 100;
+text-transform: uppercase;
+letter-spacing: 2px;
+line-height: 1.5;
 margin-bottom: $baselineheight / 2; }
+
+h2.h2-title {
+font-size: 3rem;
+font-family: $altfontfamily;
+font-weight: 700;
+font-variant: small-caps;
+line-height: 2.5;
+}
+
+h2 i {
+text-transform: lowercase;
+}
+
+h2.by {
+    margin-bottom: 3.5rem;
+}
+
+footer h2 {
+font-family: $altfontfamily;
+}
 
 h3,
 .h3 {
 @include font-size($basefontsize * 1.3);
+text-transform: uppercase;
 line-height: 1.3;
 margin-bottom: $baselineheight / 1.5; }
 
 h4,
 .h4 {
 @include font-size($basefontsize * 1.25);
+//text-transform: uppercase;
 line-height: 1.25;
-margin-bottom: $baselineheight; }
+margin-bottom: $baselineheight * 0.5; }
 
 h5,
 .h5 {
-@include font-size($basefontsize * 1.15); 
+@include font-size($basefontsize * 1.15);
+//text-transform: uppercase;
 margin-bottom: $baselineheight;}
 
 h6,
@@ -131,6 +190,10 @@ q:before,
 q:after {
 content : '';
 content : none; }
+
+blockquote {
+border-left: 1px solid #473f3f;
+}
 
 dl,
 dd {
@@ -223,3 +286,55 @@ line-height : 1.4; }
 
 .spaced {
 letter-spacing : 1px; }
+
+.slug {
+display: block;
+font-size: 2rem;
+font-family: $altfontfamily; 
+font-variant: small-caps;
+letter-spacing: 0;
+line-height: 2rem;
+text-align: left;
+color: rgb(255,255,255);
+@include media-query-bp($bp4)
+{ color: rgb(19,21,24);
+font-size: 2.4rem;
+line-height: 5rem;
+}
+}
+
+.logo .slug {
+font-size: 1.2rem;
+font-weight: 100;
+color: rgb(146,154,0);    
+}
+
+.nav-head {
+font-family: $altfontfamily;
+}
+
+.nav-text {
+font-family: $basefontfamily;
+}
+
+.hero-unit.menu {
+
+p {
+font-size: 1.35rem;
+color: rgba(28,32,36,0.7);
+}
+h3 {
+font-size: 1.5rem;
+line-height: 0;
+text-transform: none;
+color:  rgba(164,50,21,0.75);
+}
+}
+
+span.soon {
+    color: #b0b861;
+}
+
+.nospace {
+margin-bottom: 0;
+}

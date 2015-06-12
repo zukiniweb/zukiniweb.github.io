@@ -132,6 +132,11 @@ background-color : darken($warningcolor, 5%);
 color : darken($buttoncolorwarning, 5%); }
 }/*btn-warning*/
 
+.btn-full {
+display: block;
+width: 90%;
+}
+
 .btn-extlarge {
 padding : 11px 22px;
 @include font-size($buttonfontsize * 2);
@@ -176,7 +181,7 @@ border-radius : 0; }
 .btn:first-child {
 margin-left : 0;
 border-radius : 2px, 0, 2px, 0; } 
-
+    
 .btn:last-child {
 border-radius : 0, 2px, 0, 2px; }
 
@@ -198,3 +203,4 @@ display : inline-block;
 *display : inline;
 *zoom : 1; }
 }/*btn.btn-toolbar*/
+

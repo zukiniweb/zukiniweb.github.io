@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<div class="l-wrap">
+<div class="l-summary">
+<h2>Veggie Bite</h2>
+<p>The food is made from scratch for you, it's made with heart and soul—it tastes delicious—<b>it's is for everyone</b>.</p>
+<p>Eating plant based foods does not mean you miss out on flavours and textures. The food is homemade, creative and not mass produced—<b>it's slow food</b>.</p>
+</div><!-- l-summary -->
+<div class="l-content">
+<!-- http://twitter.github.com/bootstrap/javascript.html#carousel -->
+<div id="myCarousel" class="carousel slide">
+<div class="carousel-inner">
+    
+<div class="item active">
+<img src="/img/buckwheat-noodles.jpg" alt="">
+</div>
+    
+<div class="item">
+<img src="/img/wrap.jpg" alt="">
+</div>
+
+<div class="item">
+<img src="/img/carob-porridge.jpg" alt="">
+</div>
+
+<div class="item">
+<img src="/img/nutseed-bread.jpg" alt="">
+</div>
+</div>
+    
+<!--
+<a class="carousel-control left" href="#myCarousel" data-slide="prev" title="Prev">&#171;</a>
+<a class="carousel-control right" href="#myCarousel" data-slide="next" title="Next">&#187;</a>
+-->
+</div>
+</div><!-- l-content -->
+</div><!-- wrap -->
+
+<div class="l-wrap">
+    <div class="hero-unit menu">
+    <h2>The menu</h2>
+    {% for menu in site.vbmenu %}
+    {{ menu.content }}
+    {% endfor %}
+    </div>
+    </div><!-- wrap -->

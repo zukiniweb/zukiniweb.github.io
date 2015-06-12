@@ -1,0 +1,29 @@
+<section class="l-panel l-introduction nothome">
+
+<div class="hero-unit">
+<h1 class="logo">zukini
+    <span class="slug">creative thoughtful sustainability</span>
+    </h1>
+    
+    {% if page.url == '/veggiebite.html' %}
+   {% for veggiebite in site.veggiebite %}
+    <p>{{ veggiebite.content }}</p>
+    {% include delivery.html %}
+    <div class="alert alert--info">
+    {{ veggiebite.offers }}
+    </div>
+    {% endfor %}
+{% elsif page.url == '/interviews.html' %}
+    {% for interviews in site.interviews %}
+    <p>{{ interviews.content }}</p>
+     {% endfor %}
+    {% elsif page.url == '/bakednotfried.html' %}
+    {% for baked in site.bakednotfried %}
+    <p>{{ baked.content }}</p>
+     {% endfor %}
+    {% else %}
+        {% endif %}
+
+</div>
+
+</section><!-- section -->

@@ -1,15 +1,32 @@
-<footer role="contentinfo" class="donthatetimvandamme">
-<small>ZUKINI by <a href="mailto:hello@zukini.co.uk">Rajiv Shah</a>.</small> 
-<!--
-<small>Licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>.</small>
-<small>Thanks to:
-<a href="http://twitter.com/aaronallport">Aaron Allport</a>, 
-<a href="https://twitter.com/chriscoyier">Chris Coyier</a>, 
-<a href="http://twitter.com/brad_frost">Brad Frost</a> and 
-<a href="http://twitter.com/twbootstrap">Bootstrap</a>.
--->
-</small>
+<footer role="">
+    <section class="l-panel">
+            <div class="l-wrap">
+<div class="section group">
+				<h1>Contact Me</h1>
+				</div>
+
+				<div class="section group">
+					<div class="col span_1_of_3">
+					<h2>Twitter</h2>
+                    <p>Ask me questions or comments on Twitter. I tweet a few times a week.</p>
+                        <p><a href="https://twitter.com/rajivshah" class="btn btn-full btn-inverse">Tweet Me</a></p>
+					</div>
+					<div class="col span_1_of_3">
+					<h2>Call</h2>
+                    <p>Need to ask me something urgent—like if it's too late to order? Call me.</p>
+                        <p><a href="" class="btn btn-full btn-inverse">07598 293 006</a></p>
+					</div>
+					<div class="col span_1_of_3">
+					<h2>Email</h2>
+                    <p>If you have a longer query about zukini or Veggie Bite, just send me an email.</p>
+                        <p><a href="mailto:hello@zukini.co.uk" class="btn btn-full btn-inverse">Email Me</a></p>
+					</div>
+                    <p>&copy; {{ site.copyright }}</p>
+				</div><!-- group -->
+        </div><!-- l-wrap -->
+</section><!-- section -->
 </footer>
+
 </div><!-- container -->
 
 <!-- Load libraries -->
@@ -47,6 +64,9 @@ head.js(
 "/js/nav-patterns/left-nav-flyout.js",
 "/js/nav-patterns/responsive-nav.min.js",
 "/js/nav-patterns/responsive-breadcrumb.js",
+    
+    // Functionality only used by Rock Hammer - this should be removed in production projects!
+"/js/navigation-manager.js"
 
 );
 
