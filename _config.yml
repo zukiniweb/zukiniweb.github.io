@@ -14,8 +14,7 @@ collections:
  - interviews
  - bakednotfried
  
-sass:
-  style: compressed
+
  
 
 # Build settings
