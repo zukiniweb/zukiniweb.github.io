@@ -35,4 +35,4 @@ I think it has made me more aware of my environmental footprint and more appreci
 #### What advice would you give to someone who is thinking about getting into plant based foods.
 Do it. Eat whole foods in abundance and enjoy it :)
 
-![chia berry jam pudding, almond butter on toasted sprouted rye & passion fruit](/img/sophia-food.jpg)
+![chia berry jam pudding almond butter on toasted sprouted rye passion fruit](/img/sophia-food.jpg)
