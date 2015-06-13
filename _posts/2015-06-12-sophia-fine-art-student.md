@@ -23,7 +23,6 @@ I eat in abundance. I make up a large batch of beans and legumes, rice and plent
 #### What's your favourite kitchen tool/gadget?
 I don't generally use any tools that are out of the ordinary! Occasionally I purchase a cheap hand held blender, but I am notoriously good at breaking them on frozen fruits!
 
-
 #### What one food could you not live without and which food do you miss the most since switching to plant based foods?
 I can't isolate one food that I couldn't live without! Perhaps celery spoons and jars of nut butter? The only thing I miss is a boiled egg and soldiers.
 
@@ -35,3 +34,5 @@ I think it has made me more aware of my environmental footprint and more appreci
 
 #### What advice would you give to someone who is thinking about getting into plant based foods.
 Do it. Eat whole foods in abundance and enjoy it :)
+
+![chia berry jam pudding, almond butter on toasted sprouted rye & passion fruit](/img/sophia-food.jpg)
