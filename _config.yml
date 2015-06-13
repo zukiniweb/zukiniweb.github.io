@@ -16,7 +16,7 @@ collections:
  
 sass:
   style: compressed
- 
+
 
 # Build settings
 markdown: kramdown
