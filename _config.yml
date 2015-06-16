@@ -11,5 +11,5 @@ collections:
   - interviews
   - bakednotfried
 sass:
-  style: Compressed
+  style: compressed
 markdown: kramdown
