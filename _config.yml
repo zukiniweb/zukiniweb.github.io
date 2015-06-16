@@ -8,6 +8,8 @@ copyright: ZUKINI 2015
 
 encoding: UTF-8
 
+exclude: [vendor]
+
 collections:
   - vbmenu
   - veggiebite
