@@ -46,4 +46,4 @@ It&rsquo;s opened my eyes to all the variety of plant based foods and the ethics
 
 Be sure to research about plant based nutrition to make sure you are giving your body all that you need, try to avoid as much vegan junk as possible and stick to the wholesome foods like fruit, veg, legumes, whole-grains, nuts and seeds. It&rsquo;s so much cheaper to make your food your self and it can be so simple (research). Make sure you eat enough too!! Overall enjoy the journey, follow vegan blogs, youtube channels, join vegan pages, people may be a bit negative around you but as long as you&rsquo;re educated on veganism, following your beliefs and doing what makes you happy, that&rsquo;s all that matters, there are so many people who have similar values that will support you in all that you do and I&rsquo;m one of them. Always remember you have embarked on a great journey and I believe only positive things can come from this :)
 
-![sarah with a wholesome meal](/img/sarah-jaques.jpg)
+![sarah with a wholesome meal](/img/sarah-jacques.jpg)
