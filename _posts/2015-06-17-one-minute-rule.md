@@ -2,7 +2,7 @@
 layout: post
 title: One Minute Rule
 description: "The one-minute rule, as a way to keep clutter under control."
-author: ""
+author: rajiv
 category: baked
 ---
 Gretchen Rubin, writes

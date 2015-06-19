@@ -2,7 +2,7 @@
 layout: post
 title: A cycling paradise—Copenhagen
 description: Copenhagen calculates all of the social costs involved—and bikes win out...
-author: ""
+author: rajiv
 category: baked
 ---
 Ben Schiller, writing for Fast Company:
