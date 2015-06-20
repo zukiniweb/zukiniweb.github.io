@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Pile of Filth
-description: ""
+description: "The Earth has entered a new period of extinction..."
 author: rajiv
 category: baked
 ---
