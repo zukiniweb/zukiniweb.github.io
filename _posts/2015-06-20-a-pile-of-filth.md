@@ -12,7 +12,7 @@ The BBC writes,
 
 [Earth 'entering new extinction phase' - US study](http://www.bbc.co.uk/news/science-environment-33209548)
 
-Elizabeth Kolbert writing for The New Yorker
+Elizabeth Kolbert, writing for The New Yorker
 
 >@Pontifex tweeted to his 6.3 million followers Thursday, “The earth, our home, is beginning to look more and more like an immense pile of filth.”
 
