@@ -9,10 +9,10 @@ image_path:
 ### Buckwheat noodles...4.99
 *Buckwheat soba noodles, tomatoes, red peppers, dried oregano, apple cider vineager, salt, cracked black pepper, flat leaf parsley*
 
-### Black beans, rice & salad...4.99
+### Broad bean rice salad with sesame & dill...4.99
 *Black beans, rice, mixed salad leaves, dressing (date paste, apple cider vinegar, mustard)* 
 
-### Savoury corn muffin, with sliced fresh mango and salad...3.99
+### Savoury coriander corn muffin, with sliced fresh mango and salad...3.99
 *Corn kernels, corn flour, plant milk, dates, apple cider vinegar, baking powder, cayenne pepper, salt*
 
 ### Scrummy munch...3.99
@@ -24,8 +24,8 @@ image_path:
 ### Almond lemon cardamon cake...<s>2.49 per slice slice or</s> 22.99 per cake (8/10 people)
 *Almonds, spelt flour, dates, coconut sugar, olive oil, lemon zest, lemon juice, cardamon baking soda, apple cider vinegar, salt*
 
-### <s>Raw coco hazelnut bar...2.29</s>
+### Raw cacao hazelnut bar...2.29 - limited availability
 *Dates, almonds, hazelnuts, cacao, coconut oil, lucuma, vanilla*
 
-### <s>Raw coco goji & coconut bar...2.29</s>
+### Raw cacao goji & coconut bar...2.29 - limited availability
 *Dates, almonds, cacao, goji berries, coconut, coconut oil, lucuma, vanilla*
