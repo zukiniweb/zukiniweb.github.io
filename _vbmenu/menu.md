@@ -18,10 +18,10 @@ image_path:
 ### Scrummy munch...3.99
 *Seasonal fruit, sesame & date crumble, coconut strips & thick almond vanilla milk*
 
-### Almond orange cake...2.49 per slice or 24.99 per cake (8/10 people)
+### Almond orange cake...3.49 per slice or 24.99 per cake (8/10 people)
 *Almonds, spelt flour, dates, coconut sugar, olive oil, orange zest, orange juice, baking soda, apple cider vinegar, salt*
 
-### Almond lemon cardamon cake...<s>2.49 per slice slice or</s> 22.99 per cake (8/10 people)
+### Almond lemon cardamon cake...<s>3.49 per slice slice or</s> 24.99 per cake (8/10 people)
 *Almonds, spelt flour, dates, coconut sugar, olive oil, lemon zest, lemon juice, cardamon baking soda, apple cider vinegar, salt*
 
 ### Raw cacao hazelnut bar...2.29 - limited availability
