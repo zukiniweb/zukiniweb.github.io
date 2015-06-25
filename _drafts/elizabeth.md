@@ -46,7 +46,7 @@ I remember feeling a sense of inside-cleanliness for the first few months after 
 
 #### How has eating plant foods changed you?
 
-I don&rsquo;t think it has. I feel I was always destined for this lifestyle. It just feels very normal for me. I&#39;m a Highly Sensitive Person see !(hsperson.com)[[http://hsperson.com](http://hsperson.com)] and I think HSPs are much more likely to be vegan. I only learnt about the HSP trait a few years ago but it has helped me make sense of my life and being vegan is just part of who I am.
+I don&rsquo;t think it has. I feel I was always destined for this lifestyle. It just feels very normal for me. I&#39;m a Highly Sensitive Person see [hsperson.com](http://hsperson.com) and I think HSPs are much more likely to be vegan. I only learnt about the HSP trait a few years ago but it has helped me make sense of my life and being vegan is just part of who I am.
 
 #### What advice would you give to someone who is thinking about getting into plant based foods?
 
