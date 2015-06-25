@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sarah nutritionist and adviser of the organic
-description: "Sarah an inspiring Nutritionist & adviser of the organic, wholesome and plant based lifestyle and I’m currently working my way towards that in all that I do."
+description: "Sarah an inspiring Nutritionist & adviser of the organic, wholesome and plant based lifestyle and I'm currently working my way towards that in all that I do."
 excerpt: "I absolutely love eating & cooking with plants, I think about it all the time."
 author: rajiv
 category: interview

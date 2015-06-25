@@ -32,7 +32,7 @@
 // STEP ONE: BASICS ================================================
 
 
-// Start the ‘atmosphere’ of your design by defining the colours of your pages and text
+// Start the ‘atmosphere' of your design by defining the colours of your pages and text
 
 $bodycolor 						: rgb(255,255,255);
 $textcolor 						: rgb(71,63,63);
@@ -87,8 +87,8 @@ $no-mq-classname 				: ".lt-ie9";
 // STEP TWO: TYPOGRAPHY ================================================
 
 
-// Now define your design’s typography by setting a base typeface and size
-$basefontfamily 				: Palatino, "Times New Roman", Times, serif;
+// Now define your design's typography by setting a base typeface and size
+$basefontfamily 				: "Cardo", "Times New Roman", Times, serif;
 $basefontsize 					: 16;
 
 // Your headings may inherit the base typeface, or you may set a different font stack
@@ -100,14 +100,14 @@ $baseheadingfontweight 			: bold;
 // Your headings may inherit the $textcolor, or you may set a different colour
 $baseheadingfontcolor 			: inherit;
 
-// Often you’ll use an alternative typeface (eg: for buttons, form inputs and tables)
+// Often you'll use an alternative typeface (eg: for buttons, form inputs and tables)
 $altfontfamily 					: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $altlineheight 					: 1.35em;
 
 // You can choose a special typeface just for ampersands too
 $ampfontfamily 					: local('Georgia'), local('Garamond'), local('Palatino'), local('Book Antiqua');
 
-//  And if your site’s for geeks, you’ll need a font for code too
+//  And if your site's for geeks, you'll need a font for code too
 $codefont 						: Monaco, Courier New, monospace;
 
 
@@ -115,7 +115,7 @@ $codefont 						: Monaco, Courier New, monospace;
 // STEP THREE: COLOUR ================================================
 
 
-// Define your design’s palette by choosing three main colours
+// Define your design's palette by choosing three main colours
 $primarycolor 					: rgb(146,154,0);
 $secondarycolor 				: rgb(164,50,21);
 $tertiarycolor 					: rgb(41,47,54);
@@ -128,7 +128,7 @@ $lightneutralcolor 				: lighten($neutralcolor,25%);
 $lighterneutralcolor 			: lighten($neutralcolor,50%);
 $lightestneutralcolor 			: lighten($neutralcolor,70%);
 
-// Sometimes you may want $black and $white to be ‘almost black’ and ’off-white’
+// Sometimes you may want $black and $white to be ‘almost black' and 'off-white'
 $black 							: rgb(0,0,0);
 $white 							: rgb(255,255,255);
 
@@ -152,7 +152,7 @@ $warningcolor 					: $errorcolor;
 
 // STEP FOUR: TEXTURE ================================================
 
-// Next set variables for your design’s borders. 
+// Next set variables for your design's borders. 
 // These will be inherited by many Rock Hammer elements below 
 
 $bordercolor    				: $lighterneutralcolor;
@@ -208,16 +208,16 @@ $basefontbackgroundcolor		: $lightestneutralcolor;
 // Configure the gradient colours in _texture.scss
 $navigationbackgroundcolor 		: $tertiarycolor;
 
-// Set navigation items’ bottom border width
+// Set navigation items' bottom border width
 $navigationborderwidth			: $borderwidth;
 
-// Set navigation items’ bottom border style
+// Set navigation items' bottom border style
 $navigationborderstyle			: $borderstyle;
 
-// Set navigation items’ bottom border colour
+// Set navigation items' bottom border colour
 $navigationbordercolor 			: darken($navigationbackgroundcolor,10%);
 
-// Set navigation items’ link colours
+// Set navigation items' link colours
 $navigationlinkcolor			: $white;
 
 // :hover
@@ -229,7 +229,7 @@ $navigationlinkcolorhover		: darken($navigationlinkcolor,30%);
 
 // =navbar ============
 
-// Set navbar’s min-height
+// Set navbar's min-height
 $navbarheight					: 44px;
 
 // By default Navbars have a flat background colour
@@ -237,25 +237,25 @@ $navbarheight					: 44px;
 // Configure the gradient colours in _texture.scss
 $navbarbackgroundcolor			: lighten($neutralcolor,75%);
 
-// Set navbar’s border width
+// Set navbar's border width
 $navbarborderwidth				: $borderwidth * 2;
 
-// Set navbar’s’ border style
+// Set navbar's' border style
 $navbarborderstyle				: $borderstyle;
 
-// By default navbar’s border is a tint of $navbarbackgroundcolor. Adjust percentage as required
+// By default navbar's border is a tint of $navbarbackgroundcolor. Adjust percentage as required
 $navbarbordercolor 				: darken($navbarbackgroundcolor,10%);
 
-// Set navbar’s border radius. Default is $borderradius defined above
+// Set navbar's border radius. Default is $borderradius defined above
 $navbarborderradius				: $borderradius;
 
-// Set navbar’s text colour
+// Set navbar's text colour
 $navbarcolor					: $textcolor;
 
-// Set navbar’s brand colour
+// Set navbar's brand colour
 $navbarbrandcolor				: $primarycolor;
 
-// Set navbar’s link colours
+// Set navbar's link colours
 $navbarlinkcolor				: $linkcolor;
 
 // :hover
@@ -266,7 +266,7 @@ $navbarlinkcolorhover			: $textcolor;
 $navbarlinkbackgroundcoloractive: $primarycolor;
 $navbarlinkcoloractive			: $white;
 
-// Set navbar’s divider colour
+// Set navbar's divider colour
 $navbardividerleft				: $navbarbordercolor;
 $navbardividerright				: lighten($navbarbordercolor,10%);
 
@@ -281,24 +281,24 @@ $navbardividerright				: lighten($navbarbordercolor,10%);
 // Configure the gradient colours in _texture.scss
 $breadcrumbbackgroundcolor 		: lighten($neutralcolor, 75%);
 
-// Set the breadcrumbs’ border width
+// Set the breadcrumbs' border width
 $breadcrumbborderwidth 			: $borderwidth;
 
-// By breadcrumbs’ border is a tint of $breadcrumbbackgroundcolor. Adjust percentage as required
+// By breadcrumbs' border is a tint of $breadcrumbbackgroundcolor. Adjust percentage as required
 $breadcrumbbordercolor			: darken($breadcrumbbackgroundcolor, 5%);
 
-// Set the breadcrumbs’ border style
+// Set the breadcrumbs' border style
 $breadcrumbborderstyle 			: $borderstyle;
 
-// Set the breadcrumbs’ font-size. 
+// Set the breadcrumbs' font-size. 
 // Use only a number. Units (em/px/%) are not required
 // Default is $basefontsize defined above
 $breadcrumbfontsize 			: $basefontsize;
 
-// Set the breadcrumbs’ text colour
+// Set the breadcrumbs' text colour
 $breadcrumbcolor				: darken($breadcrumbbackgroundcolor, 40%);
 
-// Set the default alert’s border radius. Default is $borderradius defined above
+// Set the default alert's border radius. Default is $borderradius defined above
 $breadcrumbborderradius			: $borderradius;
 
 
@@ -357,19 +357,19 @@ $pagerbackgroundcolor 			: $bodycolor;
 // :hover
 $pagerbackgroundcolorhover		: darken($pagerbackgroundcolor, 10%);
 
-// Set pager’s border width
+// Set pager's border width
 $pagerborderwidth 				: $borderwidth;
 
-// And pager’s border style
+// And pager's border style
 $pagerborderstyle 				: $borderstyle;
 
 // By default colour is a tint of background colour. Adjust percentage as required
 $pagerbordercolor 				: darken($pagerbackgroundcolor, 20%);
 
-// Set pager’s border radius. Default is $borderradius defined above
+// Set pager's border radius. Default is $borderradius defined above
 $pagerborderradius				: $borderradius;
 
-// Set pager’s font-family. Default is $basefontfamily defined above
+// Set pager's font-family. Default is $basefontfamily defined above
 $pagerfontfamily 				: $altfontfamily;
 
 // By default colour is a tint of background colour. Adjust percentage as required
@@ -392,16 +392,16 @@ $pagercolor						: $linkcolor;
 // Configure the gradient colours in _texture.scss
 $herobackgroundcolor            : rgba($primarycolor, .1);
 
-// Set hero’s border width
+// Set hero's border width
 $heroborderwidth 				: $borderwidth;
 
-// And hero’s border style
+// And hero's border style
 $heroborderstyle 				: $borderstyle;
 
-// By default hero’s border is a tint of $herobackgroundcolor. Adjust percentage as required
+// By default hero's border is a tint of $herobackgroundcolor. Adjust percentage as required
 $herobordercolor				: darken($herobackgroundcolor, 20%);
 
-// Set hero’s border radius. Default is $borderradius defined above
+// Set hero's border radius. Default is $borderradius defined above
 $heroborderradius				: $borderradius;
 
 // By default colour is a tint of background colour. Adjust percentage as required
@@ -425,19 +425,19 @@ $alertpadding					: 8px 35px 8px 14px;
 // Configure the gradient colours in _texture.scss
 $alertbackgroundcolor 			: $alertcolor;
 
-// Set the alert’s border width
+// Set the alert's border width
 $alertborderwidth 				: $borderwidth * 2;
 
-// And the alert’s border style
+// And the alert's border style
 $alertborderstyle 				: $borderstyle;
 
-// By default alert’s border is a tint of $alertbackgroundcolor. Adjust percentage as required
+// By default alert's border is a tint of $alertbackgroundcolor. Adjust percentage as required
 $alertbordercolor				: darken($alertbackgroundcolor, 20%);
 
-// Set the alert’s border radius. Default is $borderradius defined above
+// Set the alert's border radius. Default is $borderradius defined above
 $alertborderradius 				: $borderradius;
 
-// Set the alert’s font-size. 
+// Set the alert's font-size. 
 // Use only a number. Units (em/px/%) are not required
 // Default is $basefontsize defined above
 $alertfontsize 					: $basefontsize;
@@ -454,25 +454,25 @@ $alertshadowblur				: 10px;
 
 
 
-// Special alerts’ colours are derived from colour palettes above
+// Special alerts' colours are derived from colour palettes above
 
-// Set the error alerts’ border and text colours
+// Set the error alerts' border and text colours
 $alertbordercolorerror   		: darken($errorcolor, 10%);
 $alertcolorerror 				: lighten($errorcolor, 60%);
 
-// Set the info alerts’ border and text colours
+// Set the info alerts' border and text colours
 $alertbordercolorinfo   		: darken($infocolor, 10%);
 $alertcolorinfo					: darken($infocolor, 50%);
 
-// Set the inverse alerts’ border and text colours
+// Set the inverse alerts' border and text colours
 $alertbordercolorinverse   		: $inversecolor;
 $alertcolorinverse				: $white;
 
-// Set the success alerts’ border and text colours
+// Set the success alerts' border and text colours
 $alertbordercolorsuccess   		: darken($successcolor, 10%);
 $alertcolorsuccess				: darken($successcolor, 50%);
 
-// Set the warning alerts’ border and text colours
+// Set the warning alerts' border and text colours
 $alertbordercolorwarning   		: lighten($warningcolor, 20%);
 $alertcolorwarning				: darken($warningcolor, 20%);
 
@@ -487,22 +487,22 @@ $alertcolorwarning				: darken($warningcolor, 20%);
 // Configure the gradient colours in _texture.scss
 $wellbackgroundcolor 			: $lightestneutralcolor;
 
-// Set wells’ border width
+// Set wells' border width
 $wellborderwidth 				: $alertborderwidth;
 
-// And wells’ border style
+// And wells' border style
 $wellborderstyle 				: $borderstyle;
 
-// And wells’ border color
+// And wells' border color
 $wellcolor						: lighten($neutralcolor, 75%);
 
-// Set the wells’ border radius. Default is $borderradius defined above
+// Set the wells' border radius. Default is $borderradius defined above
 $wellborderradius 				: $borderradius;
 
-// By default wells’ border is a tint of $wellbackgroundcolor. Adjust percentage as required
+// By default wells' border is a tint of $wellbackgroundcolor. Adjust percentage as required
 $wellbordercolor				: darken($wellbackgroundcolor, 10%);
 
-// Set the wells’ text colour
+// Set the wells' text colour
 $wellcolor						: $textcolor;
 
 // Add optional box-shadow values or ignore
@@ -516,7 +516,7 @@ $wellshadowblur					: $gutterwidth / 2;
 
 // FORMS =============================================================================
 
-// Set form’s font-family. Default is $basefontfamily defined above
+// Set form's font-family. Default is $basefontfamily defined above
 $formfontfamily 				: $basefontfamily;
 
 
@@ -532,21 +532,21 @@ $forminputpadding				: 6px 11px;
 // Configure the gradient colours in _texture.scss
 $formbinputbackgroundcolor 		: $white;
 
-// Set inputs’ border width
+// Set inputs' border width
 $forminputborderwidth			: $borderwidth * 2;
 
-// Set inputs’ border style
+// Set inputs' border style
 $forminputborderstyle			: $borderstyle;
 
-//Set inputs’ border style. Default is $bordercolor defined above
+//Set inputs' border style. Default is $bordercolor defined above
 $forminputbordercolor 			: $bordercolor;
 $forminputbordercolorhover 		: darken($forminputbordercolor, 10%);
 $forminputbordercolorfocus 		: darken($forminputbordercolor, 25%);
 
-// Set inputs’ border radius. Default is $borderradius defined above
+// Set inputs' border radius. Default is $borderradius defined above
 $forminputborderradius			: $borderradius;
 
-// Set inputs’ font-family. Default is $borderradius defined above
+// Set inputs' font-family. Default is $borderradius defined above
 $forminputfontfamily			: $altfontfamily;
 
 // Set placeholder text colour
@@ -577,10 +577,10 @@ $buttonpadding 					: 6px 11px;
 // Configure the gradient colours in _texture.scss
 $buttonbackgroundcolor 			: $lightestneutralcolor;
 
-// Set the default button’s border width. Default is $borderwidth defined above
+// Set the default button's border width. Default is $borderwidth defined above
 $buttonborderwidth				: $borderwidth;
 
-// Set the default button’s border style
+// Set the default button's border style
 $buttonborderstyle				: $borderstyle;
 
 // By default border colour is a tint of background colour. Adjust percentage as required
@@ -589,18 +589,18 @@ $buttonbordercolor 				: darken($buttonbackgroundcolor,10%);
 // Sometimes you may want a darker bottom border to suggest three-dimensions
 $buttonbottombordercolor 		: darken($buttonbordercolor, 5%);
 
-// Set the default button’s border radius. Default is $borderradius defined above
+// Set the default button's border radius. Default is $borderradius defined above
 $buttonborderradius				: $borderradius;
 
-// Set the button’s font-family. Default is $basefontfamily defined above
+// Set the button's font-family. Default is $basefontfamily defined above
 $buttonfontfamily 				: $basefontfamily;
 
-// Set the button’s font-size. 
+// Set the button's font-size. 
 // Use only a number. Units (em/px/%) are not required
 // Default is $basefontsize defined above
 $buttonfontsize 				: $basefontsize;
 
-// Set the default button’s text colour
+// Set the default button's text colour
 // Colours for :hover and :active  are derived automatically from $buttoncolor
 // Override colours for :hover and :active in _bootstrap-form-buttons.scss
 $buttoncolor 					: $lightneutralcolor;
@@ -609,35 +609,35 @@ $buttoncolor 					: $lightneutralcolor;
 
 
 
-// Special buttons’ colours are derived from colour palettes above
+// Special buttons' colours are derived from colour palettes above
 
 
-// Set the primary action button’s border and text colours
+// Set the primary action button's border and text colours
 $buttonbordercolorprimary		: darken($primarycolor, 10%);
 $buttoncolorprimary				: $white;
 
 
-// Set the error button’s border and text colours
+// Set the error button's border and text colours
 $buttonbordercolorerror			: darken($errorcolor, 10%);
 $buttoncolorerror				: $white;
 
 
-// Set the info button’s border and text colours
+// Set the info button's border and text colours
 $buttonbordercolorinfo			: darken($infocolor, 10%);
 $buttoncolorinfo				: darken($infocolor, 50%);
 
 
-// Set the inverse button’s border and text colours
+// Set the inverse button's border and text colours
 $buttonbordercolorinverse		: darken($inversecolor, 10%);
 $buttoncolorinverse				: $white;
 
 
-// Set the success button’s border and text colours
+// Set the success button's border and text colours
 $buttonbordercolorsuccess		: darken($successcolor, 10%);
 $buttoncolorsuccess				: darken($successcolor, 50%);
 
 
-// Set the warning button’s border and text colours
+// Set the warning button's border and text colours
 $buttonbordercolorwarning		: darken($warningcolor, 10%);
 $buttoncolorwarning				: $white;
 
@@ -663,13 +663,13 @@ $tablebackgroundhover 			: $lightestneutralcolor;
 // Set table border widths. Default is $borderwidth defined above
 $tableborderwidth				: $borderwidth;
 
-// Set tables’ border styles
+// Set tables' border styles
 $tableborderstyle				: $borderstyle;
 
-// Set tables’ border colour
+// Set tables' border colour
 $tablebordercolor 				: $lighterneutralcolor;
 
-// Set tables’ font-family. Default is $altfontfamily defined above
+// Set tables' font-family. Default is $altfontfamily defined above
 $tablefontfamily 				: $altfontfamily;
 
 
@@ -698,7 +698,7 @@ $tooltipcolor					: $white;
 // Set tooltip font size
 $tooltipfontsize				: 11;
 
-// Set tooltip’s border radius. Default is $borderradius defined above
+// Set tooltip's border radius. Default is $borderradius defined above
 $tooltipborderradius 			: $borderradius;
 
 // Set tooltip arrow width
