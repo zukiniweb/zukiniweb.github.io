@@ -8,21 +8,21 @@ category: interviews
 ---
 #### Who are you and what do you do?
 
-I&rsquo;m a forty-something mum of two young boys. I work three days a week as a project manager at a marketing company, trying to get a good work/life balance.
+I'm a forty-something mum of two young boys. I work three days a week as a project manager at a marketing company, trying to get a good work/life balance.
 
 #### How long have you been eating plant based foods and what made you get into plant foods?
 
-I became a vegetarian when I was about 12 when I realised that I had a choice. I&rsquo;d always been a bit squeamish about eating flesh but back then you just did as you were told! My next realisation about eggs and dairy was a slow one but was affirmed by reading Juliet Gellatley&#39;s The Silent Ark. I became vegan soon after that on 1st Jan 1997.
+I became a vegetarian when I was about 12 when I realised that I had a choice. I&rsquo;d always been a bit squeamish about eating flesh but back then you just did as you were told! My next realisation about eggs and dairy was a slow one but was affirmed by reading Juliet Gellatley's The Silent Ark. I became vegan soon after that on 1st Jan 1997.
 
 #### Do you like making food and what are your favourite foods?
 
-No! I don&rsquo;t like preparing food. Fortunately my husband does! He&rsquo;s the savoury expert and tends to leave me to sort out cakes and desserts which I find much easier and more satisfying. Fruit is my favourite food, I could easily live on fruit and not much else. I like simple food like jacket potato with baked beans and VBites cheese. Pizza Express pizza is my favourite eating out meal, closely followed by the veggie Cornish pasty from Pengenna Pasties in Cornwall. One of my favourite dishes is my sister&#39;s lasagne - so tasty! She also makes a delicious wheat-free option with aubergine. I only have wheat once a week (or less) so these meals are rare treats!
+No! I don&rsquo;t like preparing food. Fortunately my husband does! He&rsquo;s the savoury expert and tends to leave me to sort out cakes and desserts which I find much easier and more satisfying. Fruit is my favourite food, I could easily live on fruit and not much else. I like simple food like jacket potato with baked beans and VBites cheese. Pizza Express pizza is my favourite eating out meal, closely followed by the veggie Cornish pasty from Pengenna Pasties in Cornwall. One of my favourite dishes is my sister's lasagne - so tasty! She also makes a delicious wheat-free option with aubergine. I only have wheat once a week (or less) so these meals are rare treats!
 
 #### Describe your day with plant foods.
 
 I always start the day with half a lemon squeezed into a glass of warm water &ndash; keeps the hunger at bay for an hour or two before breakfast. Breakfast is either porridge, buckwheat pancakes or a fry up! (scrambled tofu, mushrooms, tomatoes, baked beans). I don&#39;t have much refined sugar or other syrups so I sweeten porridge and pancakes with grated apple and chopped apricots.
 
-Lunch is usually salad with quinoa, houmous or bean pate or my Monday treat is Zukini&#39;s sweet potato wrap &ndash; delicious!
+Lunch is usually salad with quinoa, houmous or bean pate or my Monday treat is Zukini's sweet potato wrap &ndash; delicious!
 
 Evening meal can be something simple like a nut burger with potato and veg or something more elaborate involving beans or lentils depending what my husband has felt like cooking. I eat what I&#39;m given!
 
