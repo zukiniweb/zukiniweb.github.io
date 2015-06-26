@@ -4,28 +4,39 @@ image_path:
 ---
 
 ### Sweet potato wrap...4.99
-*Baked sweet potato chips, organic salad, red peppers, mango, coriander, mint & hummus, salt, cracked black pepper*
+*Baked sweet potato chips, organic salad, red peppers, mango, coriander, mint & hummus, salt, cracked black pepper*  
+**Contains sesame**
 
 ### Buckwheat noodles...4.99
 *Buckwheat soba noodles, tomatoes, red peppers, dried oregano, apple cider vineager, salt, cracked black pepper, flat leaf parsley*
 
-### Broad bean rice salad with sesame & dill...4.99
+### Black bean rice salad...4.99
 *Black beans, rice, mixed salad leaves, dressing (date paste, apple cider vinegar, mustard)* 
 
 ### Savoury coriander corn muffin, with sliced fresh mango and salad...3.99
-*Corn kernels, corn flour, plant milk, dates, apple cider vinegar, baking powder, cayenne pepper, salt*
+*Corn kernels, corn flour, plant milk, dates, apple cider vinegar, baking powder, cayenne pepper, salt*  
+**Contains nuts**
 
 ### Scrummy munch...3.99
-*Seasonal fruit, sesame & date crumble, coconut strips & thick almond vanilla milk*
+*Seasonal fruit, sesame & date crumble, coconut strips & thick almond vanilla milk*  
+**Contains nuts & sesame**
 
-### Almond orange cake...3.49 per slice or 24.99 per cake (12/16 people)
-*Almonds, spelt flour, dates, coconut sugar, olive oil, orange zest, orange juice, baking soda, apple cider vinegar, salt*
+### Almond orange passion fruit celebration cake...3.49 per slice or 24.99 per cake (12/16 people)
+*Almonds, spelt flour, dates, coconut sugar, passion fruit, olive oil, orange zest, orange juice, baking soda, apple cider vinegar, salt*  
+**Contains nuts and gluten**
 
-### Almond lemon cardamon cake...<s>3.49 per slice slice or</s> 24.99 per cake (12/16 people)
-*Almonds, spelt flour, dates, coconut sugar, olive oil, lemon zest, lemon juice, cardamon baking soda, apple cider vinegar, salt*
+### Almond orange chocolate celebration cake...24.99 per cake (12/16 people)
+*Almonds, spelt flour, dates, coconut sugar, chocolate, olive oil, orange zest, orange juice, baking soda, apple cider vinegar, salt*  
+**Contains nuts and gluten**
+
+### Almond lemon cardamon celebration cake...24.99 per cake (12/16 people)
+*Almonds, spelt flour, dates, coconut sugar, olive oil, lemon zest, lemon juice, cardamon baking soda, apple cider vinegar, salt*  
+**Contains nuts and gluten**
 
 ### Raw cacao hazelnut bar...2.29 - limited availability
-*Dates, almonds, hazelnuts, cacao, coconut oil, lucuma, vanilla*
+*Dates, almonds, hazelnuts, cacao, coconut oil, lucuma, vanilla*  
+**Contains nuts**
 
 ### Raw cacao goji & coconut bar...2.29 - limited availability
-*Dates, almonds, cacao, goji berries, coconut, coconut oil, lucuma, vanilla*
+*Dates, almonds, cacao, goji berries, coconut, coconut oil, lucuma, vanilla*  
+**Contains nuts**

@@ -2,9 +2,9 @@
 layout: post
 title: Elizabeth project manager
 description: Elizabeth works as a project manager at a marketing company
-excerpt: It’s very easy to be an unhealthy vegan
+excerpt: It’s very easy to be an unhealthy vegan...
 author: rajiv
-category: interviews
+category: interview
 ---
 #### Who are you and what do you do?
 
