@@ -7,7 +7,7 @@ image_path:
 *Baked sweet potato chips, organic salad, red peppers, mango, coriander, mint & hummus, salt, cracked black pepper*  
 **Contains sesame**
 
-### Spelt spaghetti...4.99
+### Spelt spaghetti & salad...4.99
 *Buckwheat soba noodles, tomatoes, red peppers, dried oregano, apple cider vineager, salt, cracked black pepper, fresh basil or flat leaf parsely—depending on what’s available*
 
 ### Black bean rice salad...4.99
