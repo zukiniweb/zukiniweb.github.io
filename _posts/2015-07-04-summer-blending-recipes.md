@@ -10,8 +10,6 @@ Below are the recipes of various things I made during the Summer Blending demons
 
 **I wanted to thank everyone that came**—it was a fun evening and the feedback I received so far has been really encouraging. I hope everyone got to taste most of the things I made—I had only accounted for about 20 people but around 40 turned up! If you have any question about the evening please contact me.
 
->My VitaMix is for sale—if anyone is interested please contact me. **Only if you are local**. It comes with two containers one for wet and the other for dry things, all the manuals and boxes. I will also spend half an hour with you to help you familiarise yourself with it. The reason for selling it is that I want to get the Pro version so I make make larger quantities of things. The price is **£300**.
-
 The recipes I demonstrated are just ideas for you to start thinking of different ways in which you can use a blender. It is by no means a definitive guide or the only way of doing them.
 
 Just a few tips in using a blender:
@@ -25,6 +23,8 @@ Do use a tamper if your blender comes with one. They can be very useful in getti
 The reference to speeds I make are for the VitaMix so adjust accordingly.
 
 Don't overfill the blender, otherwise you could damage it—especially when you make things like ice cream or harder produce.
+
+A silicone spatula is really useful for scraping the insides of the blender.
 
 After using your blender wash it immediately! It's a pain to clean once things start to dry up. It's so much easier to wash the blender when it's wet. One of the easiest ways to clean it is to half fill with water, add a few drops of washing liquid and spin for 30 seconds, discard the liquid and rinse.
 
@@ -140,6 +140,8 @@ Will keep for a few days.
 4. Start to blend at low speed and then gradually move it to the highest setting and blend until you achieve a smooth consistency 
 
 Drink immediately for maximum taste. It will keep in the fridge but the taste will change and also it will be cold—I think you should consume fruit at room temperature.
+
+If you wanted to make a green smoothie just add a handful of spinach or kale. There is no need to put anymore than that.
 
 #### Watermelon juice
 
