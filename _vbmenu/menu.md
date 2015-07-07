@@ -8,7 +8,8 @@ image_path:
 **Contains sesame**
 
 ### Spelt wraps with baked falafel...4.99
-*Homemade spelt wraps with chickpea, flat leaf parsely & mint baked falafel, tomato salsa and sesame seed dressing*
+*Homemade spelt wraps with chickpea, flat leaf parsely & mint baked falafel, tomato salsa and sesame seed dressing*  
+**Contains gluten & sesame**
 
 ### Blackeye bean salad...4.99
 *Blackeye beans, carrots, celery, dill, coriander, onion, olive oil, salt and cracked black pepper* 
