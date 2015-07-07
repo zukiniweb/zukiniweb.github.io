@@ -11,7 +11,7 @@ image_path:
 *Homemade spelt wraps with chickpea, flat leaf parsely & mint baked falafel, tomato salsa and sesame seed dressing*
 
 ### Blackeye bean salad...4.99
-*Blackeye beans, carrots, celery, dill, olive oil, salt and cracked black pepper* 
+*Blackeye beans, carrots, celery, dill, coriander, onion, olive oil, salt and cracked black pepper* 
 
 ### Scrummy munch...3.99
 *Seasonal fruit, sesame & date crumble, coconut strips & thick almond vanilla milk*  
