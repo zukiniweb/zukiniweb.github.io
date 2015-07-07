@@ -7,21 +7,17 @@ image_path:
 *Baked sweet potato chips, organic salad, red peppers, mango, coriander, mint & hummus, salt, cracked black pepper*  
 **Contains sesame**
 
-### Spelt spaghetti & salad...4.99
-*Buckwheat soba noodles, tomatoes, red peppers, dried oregano, apple cider vineager, salt, cracked black pepper, fresh basil or flat leaf parsely—depending on what’s available*
+### Spelt wraps with baked falafel...4.99
+*Homemade spelt wraps with chickpea, flat leaf parsely & mint baked falafel, tomato salsa and sesame seed dressing*
 
-### Black bean rice salad...4.99
-*Black beans, rice, mixed salad leaves, dressing (date paste, apple cider vinegar, mustard)* 
+### Blackeye bean salad...4.99
+*Blackeye beans, carrots, celery, dill, olive oil, salt and cracked black pepper* 
 
 ### Scrummy munch...3.99
 *Seasonal fruit, sesame & date crumble, coconut strips & thick almond vanilla milk*  
 **Contains nuts & sesame**
 
-### Almond orange passion fruit celebration cake...3.49 per slice or 24.99 per cake (12/16 people)
-*Almonds, spelt flour, dates, coconut sugar, passion fruit, olive oil, orange zest, orange juice, baking soda, apple cider vinegar, salt*  
-**Contains nuts and gluten**
-
-### Almond orange chocolate celebration cake...24.99 per cake (12/16 people)
+### Almond orange chocolate celebration cake...3.49 per slice or 24.99 per cake (12/16 people)
 *Almonds, spelt flour, dates, coconut sugar, chocolate, olive oil, orange zest, orange juice, baking soda, apple cider vinegar, salt*  
 **Contains nuts and gluten**
 
