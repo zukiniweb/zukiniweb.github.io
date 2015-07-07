@@ -4,11 +4,11 @@ image_path:
 ---
 
 ### Sweet potato wrap...4.99
-*Baked sweet potato chips, organic salad, red peppers, mango, coriander, mint & hummus, salt, cracked black pepper*  
+*Baked sweet potato chips, salad, red peppers, mango, coriander, mint & hummus, salt, cracked black pepper*  
 **Contains sesame**
 
 ### Spelt wraps with baked falafel...4.99
-*Homemade spelt wraps with chickpea, flat leaf parsely & mint baked falafel, tomato salsa and sesame seed dressing*  
+*Homemade spelt wraps with chickpea, flat leaf parsely & mint baked falafel, tomato salsa, salad and sesame seed dressing*  
 **Contains gluten & sesame**
 
 ### Blackeye bean salad...4.99
