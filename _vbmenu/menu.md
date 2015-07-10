@@ -7,9 +7,9 @@ image_path:
 *Baked sweet potato chips, salad, red peppers, mango, coriander, mint & hummus, salt, cracked black pepper*  
 **Contains sesame**
 
-### Spelt wraps with baked falafel...4.99
-*Homemade spelt wraps with chickpea, flat leaf parsely & mint baked falafel, tomato salsa, salad and sesame seed dressing*  
-**Contains gluten & sesame**
+### Spelt wraps with vegetables...4.99
+*Homemade spelt wraps with carrots, peas, sweetcorn, potatoes & flat leaf parsley,*  
+**Contains gluten**
 
 ### Blackeye bean salad...4.99
 *Blackeye beans, carrots, celery, dill, coriander, onion, olive oil, salt and cracked black pepper* 

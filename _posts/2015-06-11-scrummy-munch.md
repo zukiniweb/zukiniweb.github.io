@@ -23,7 +23,7 @@ Put all the ingriedents into a blender and blend until everything is well blende
 
 You can use whatever fruit you like. For this particular one I used half of a large mango, half a punnet of rasberries and a passion fruit.
 
-I put all the fruit into a bowl, topped it with a ground sesame and date mixture, and then poured the thick almond milk on top. You can also add things like, coconut strips, seeds, dried fruit. It's upto you what you want to add or not and that's what I really love about this---it's so versitle and you can just use what you have to hand.
+I put all the fruit into a bowl, topped it with a ground sesame and date mixture, and then poured the thick almond milk on top. You can also add things like, coconut strips, seeds, dried fruit. It's upto you what you want to add or not and that's what I really love about this---it's so versitile and you can just use what you have to hand.
 
 ![fruit mixture](/img/fruit-mixture.jpg)
 
