@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lindsay working in marketing, communications & business development
+title: "Lindsay working in marketing & runs Leicester Veggie"
 description: Lindsay working in marketing and runs a blog called Leicester Veggie
 excerpt: I had watched the movie Forks over Knives which was really powerful...
 author: rajiv
