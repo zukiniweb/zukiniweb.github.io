@@ -3,29 +3,33 @@ title: veggie bite menu
 image_path: 
 ---
 
-### Sweet potato wrap...4.99
+### Sweet potato wrap...5.00
 *Baked sweet potato chips, salad, red peppers, mango, coriander, mint & hummus, salt, cracked black pepper*  
 **Contains sesame**
 
-### Courgette noodles with tomato & red pepper sauce...4.99
-*Courgette noodles, tomatoes, red peppers, oregano, apple cider vinegar, onion, cracked black pepper, cayenne pepper and salt*  
+### Courgette noodles with a slightly spicy tomato & red pepper sauce...4.00
+*Courgette noodles, tomatoes, red peppers, oregano, apple cider vinegar, onion, olive oil, cracked black pepper, cayenne pepper and salt*  
 **Contains sesame**
 
-### Blackeye bean salad...4.99
+### Steamed broccoli & sweet potato with a slightly spicy tomato & red pepper sauce...5.00
+*Broccoli, sweet potatoes, tomatoes, red peppers, oregano, apple cider vinegar, onion, olive oil, cracked black pepper, cayenne pepper and salt*  
+**Contains sesame**
+
+### Blackeye bean salad...5.00
 *Blackeye beans, carrots, celery, dill, coriander, onion, olive oil, salt and cracked black pepper* 
 
-### Scrummy munch...3.99
-*Seasonal fruit, sesame & date crumble, coconut strips & thick almond vanilla milk*  
+### Scrummy munch...4.00
+*Seasonal fruit, sesame & date crumble, coconut & thick almond vanilla milk*  
 **Contains nuts & sesame**
 
-### Almond orange chocolate celebration cake...3.49 per slice or 24.99 per cake (12/16 people)
-*Almonds, spelt flour, dates, coconut sugar, chocolate, olive oil, orange zest, orange juice, baking soda, apple cider vinegar, salt*  
-**Contains nuts, gluten & *refined sugar**
+### Raw slow chocolate oat porridge...2.50
+*Hand flaked oats, chocolate almond milk, seasonal fruit—[see video of how it’s made](http://zukini.co.uk/baked/2015/07/27/slow-raw-porridge.html)*  
+**Contains nuts**
 
-### Raw cacao hazelnut bar...2.49 - limited availability
+### Raw cacao hazelnut bar...2.50 - limited availability
 *Dates, almonds, hazelnuts, cacao, coconut oil, lucuma, vanilla*  
 **Contains nuts**
 
-### Raw cacao goji & coconut bar...2.49 - limited availability
+### Raw cacao goji & coconut bar...2.50 - limited availability
 *Dates, almonds, cacao, goji berries, coconut, coconut oil, lucuma, vanilla*  
 **Contains nuts**
