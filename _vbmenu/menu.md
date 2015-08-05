@@ -11,13 +11,6 @@ image_path:
 *Courgette noodles, tomatoes, red peppers, oregano, apple cider vinegar, onion, olive oil, cracked black pepper, cayenne pepper and salt*  
 **Contains sesame**
 
-### Steamed broccoli & sweet potato with a slightly spicy tomato & red pepper sauce...5.00
-*Broccoli, sweet potatoes, tomatoes, red peppers, oregano, apple cider vinegar, onion, olive oil, cracked black pepper, cayenne pepper and salt*  
-**Contains sesame**
-
-### Blackeye bean salad...5.00
-*Blackeye beans, carrots, celery, dill, coriander, onion, olive oil, salt and cracked black pepper* 
-
 ### Scrummy munch...4.00
 *Seasonal fruit, sesame & date crumble, coconut & thick almond vanilla milk*  
 **Contains nuts & sesame**
