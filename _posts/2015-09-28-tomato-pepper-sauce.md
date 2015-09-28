@@ -5,8 +5,9 @@ description: A super simple sauce that you can use for pasta, rice, beans—anyt
 author: rajiv
 category: baked
 ---
+The recipe is back—if you have about 40 minutes to spare you should make this!
 
-Tomatoes, red peppers and onion—what could be more simple to make a rich flavourful versitile sauce? It’s simple to make and **it will keep for over a week**. This is what plant based living is about. This recipe is very forgiving and so you can vary the ingredients by a fair amount and it should still work—well that’s been my experience.
+Tomatoes, red peppers and onions—what could be more simple to make a rich flavourful versitile sauce? It’s simple to make and **it will keep for over a week**. This is what plant based living is about. This recipe is very forgiving and so you can vary the ingredients by a fair amount and it should still work—well that’s been my experience.
 
 When you have lots of tomatoes, peppers and you don’t know what to do with them or maybe they are looking a bit tired—well what better way to use them! It’s a **super simple recipe** using basic ingredients and it should not take you more than 30 minutes from start to finish.
 

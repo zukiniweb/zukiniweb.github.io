@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <section class="l-panel editable">
 <div class="l-wrap">
 <div class="l-summary">
