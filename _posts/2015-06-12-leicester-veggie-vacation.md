@@ -24,4 +24,3 @@ Here is a summary of our recent press coverage:
 [Article in the Leicester Mercury:](http://www.leicestermercury.co.uk/New-vegetarian-vegan-short-break-launched/story-26581573-detail/story.html#bTV9mT95lbcu1yVf.01)
 
 [Article in Pukkar News:](http://www.pukaarnews.com/short-break-aimed-at-vegetarian-and-vegan-food-lovers-launched-in-leicester/14488/)
-

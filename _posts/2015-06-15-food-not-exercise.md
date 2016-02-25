@@ -13,4 +13,4 @@ Aaron E. Carroll, writing for The New York Times
 
 [Eating less is more important than exercise](http://www.nytimes.com/2015/06/16/upshot/to-lose-weight-eating-less-is-far-more-important-than-exercising-more.html)
 
-What you eat is incredibly important&mdash;I used to exercise lots now it&#39;s just yoga, walking and cycling and it&#39;s all slow paced. And the food is simple but not boring.
+What you eat is incredibly important&mdash;I used to exercise lots now it&#39;s just yoga, walking and cycling and it&#39;s all slow paced. And the food is simple but not boring. 

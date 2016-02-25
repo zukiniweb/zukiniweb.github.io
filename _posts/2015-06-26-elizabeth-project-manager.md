@@ -52,4 +52,4 @@ I don’t think it has. I feel I was always destined for this lifestyle. It just
 
 Find a mentor to support you and read up about vegan nutrition. Don’t be tempted down the junk food route. It’s very easy to be an unhealthy vegan - don’t assume you’re healthy just because you’re a vegan. See the sugar and wheat-laden offerings as an occasional treat not an everyday fall-back. Be careful to get enough omega oils and iron. Go for variety, it’s easy to find favourites and stick with them but try to be adventurous. There will always be people who don’t understand and never will. Don’t preach but live by example. Share the compassion. Enjoy the journey.
 
-![pumpkin elizabeth has grown](/img/elizabeth-growing-pumpkin.jpg)
+![pumpkin elizabeth has grown](/img/elizabeth-growing-pumpkin.jpg) 

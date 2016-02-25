@@ -19,4 +19,4 @@ The BBC writes,
 
 [The great gluten-free diet fad](http://www.bbc.co.uk/news/magazine-33486177)
 
-Gluten is a huge problem for many people and as the article points out it could be responsible for other problems that people are not even aware of. There is no cure but the easiet way to find out is to remove gluten from your diet completely and see if things get better.
+Gluten is a huge problem for many people and as the article points out it could be responsible for other problems that people are not even aware of. There is no cure but the easiet way to find out is to remove gluten from your diet completely and see if things get better. 

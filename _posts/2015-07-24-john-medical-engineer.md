@@ -42,4 +42,4 @@ The food itself hasn’t really changed me however living in a way that is diffe
 #### What advice would you give to someone who is thinking about getting into plant based foods?
 Go for it. Going vegan is one of the best decisions I ever made J.
 
-![john bike trial flying through the air](/img/john-bike-trial-02.jpg)
+![john bike trial flying through the air](/img/john-bike-trial-02.jpg) 

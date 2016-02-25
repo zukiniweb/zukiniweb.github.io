@@ -37,5 +37,5 @@ I feel a lot more aware, I feel like the old me was so ignorant. Eating the way 
 #### What advice would you give to someone who is thinking about getting into plant based foods?
 I would say probably to take little steps at a time, some people find any transition easier if it is gradual. However without knowing for what reason the person is thinking about it I cannot customize my advice. All I can say is it is the best thing I have ever done in my life and I wish I had been living my whole life plant based. Also it is not hard at all! Its soo soo easy and very eye opening. I think we vegans sometimes feel like we are walking around with this big secret to life but we want to share it with everyone! Good luck and take care :)
 
-![nikki with her parrot](/img/nikki-warden.jpg)
+![nikki with her parrot](/img/nikki-warden.jpg) 
  

@@ -10,4 +10,4 @@ Ben Schiller, writing for Fast Company:
 
 [Cycling paradise](http://www.fastcoexist.com/3046345/how-copenhagen-became-a-cycling-paradise-by-considering-the-full-cost-of-cars?utm_source=facebook)
 
-Why do not other cities use the same approach?
+Why do not other cities use the same approach? 

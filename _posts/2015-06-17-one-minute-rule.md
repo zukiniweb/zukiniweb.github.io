@@ -12,4 +12,4 @@ Gretchen Rubin, writes
 
 I&#39;d take this brilliant idea even further and make it three minutes&mdash;that&#39;s a huge amount of time to get lots of things done! You&#39;ll be suprised what you can do in three minutes.
 
-If you&#39;ve not listened to the [Happier podcast](http://gretchenrubin.com/podcast/)&mdash;have a listen, they are full of some great ideas and thoughts.
+If you&#39;ve not listened to the [Happier podcast](http://gretchenrubin.com/podcast/)&mdash;have a listen, they are full of some great ideas and thoughts. 

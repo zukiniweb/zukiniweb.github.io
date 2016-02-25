@@ -18,4 +18,4 @@ Elizabeth Kolbert, writing for The New Yorker
 
 [A Papal Message That Spares No One](http://www.newyorker.com/news/daily-comment/a-papal-message-that-spares-no-one-climate-change-encyclical)
 
- You have to seriously wonder what is it going to take for people to wake up to all the destruction we cause and to do something about it. Man has this idea about being _entitled_ to whatever he wants—but at what price?
+ You have to seriously wonder what is it going to take for people to wake up to all the destruction we cause and to do something about it. Man has this idea about being _entitled_ to whatever he wants—but at what price? 
