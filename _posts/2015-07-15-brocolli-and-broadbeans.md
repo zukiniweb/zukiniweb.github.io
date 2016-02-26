@@ -39,4 +39,4 @@ This made a meal full of lots of flavours—the ripe apricots really make this d
 7. Add the lemon juice and check the seasoning—adjust if necessary
 8. The broccoli should be in one piece and not breaking up, the broadbeans tender and everything else nice and soft/mushy but whole—serve immediately
 
-This is a substaintial meal—you could eat it on it's own (I did) or with quinoa, rice or a bread. Just depends on how hungry you are. Remember don't just eat with your eyes, otherwise you could end up eating too much! 
+This is a substaintial meal—you could eat it on it's own (I did) or with quinoa, rice or a bread. Just depends on how hungry you are. Remember don't just eat with your eyes, otherwise you could end up eating too much!

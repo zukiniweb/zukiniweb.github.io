@@ -29,4 +29,4 @@ I put all the fruit into a bowl, topped it with a ground sesame and date mixture
 
 I mixed everything together added some shredded coconut, goji berries and sunflower seeds.
 
-![scrummy munch](/img/scrummy-munch.jpg) 
+![scrummy munch](/img/scrummy-munch.jpg)

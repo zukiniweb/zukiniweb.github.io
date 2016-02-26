@@ -54,4 +54,4 @@ I would like to hope it has made me a more compassionate person at most, and a b
 
 Just go for it! Arm yourself with knowledge &ndash; there is so much out there &ndash; and jump right in. Don&rsquo;t worry if you slip up in the beginning &ndash; it&rsquo;s easy to be hard on yourself but remember that by adopting a plant-based diet you are improving your health, helping the environment and eliminating needless animal suffering. I would also recommend joining a local vegan group and getting active on Twitter &ndash; the online community is incredibly supportive. This will sound a bit hippie-ish &ndash; but just listen to your body and enjoy the journey!
 
-![lindsay belle](/img/lindsay-belle.jpg) 
+![lindsay belle](/img/lindsay-belle.jpg)

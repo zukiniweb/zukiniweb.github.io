@@ -213,4 +213,4 @@ Ground ceylon cinnamon to taste—about ¼ to ½ tsp is good
 
 Eat straightaway. You cannot freeze this and then eat it later!
 
-![banana cacao mint ice cream](/img/cacao-mint-icecream-sm.jpg) 
+![banana cacao mint ice cream](/img/cacao-mint-icecream-sm.jpg)

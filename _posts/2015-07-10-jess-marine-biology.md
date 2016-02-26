@@ -47,4 +47,4 @@ It's given me more energy, improved my mood and I feel much more aware of what I
 
 Do your research and go for it! If you need advice there are so many people out there willing to help you!
 
-![jess selfie](/img/jess.jpg) 
+![jess selfie](/img/jess.jpg)

@@ -40,4 +40,4 @@ All you need to do is make some pasta, rice, beans or whatever and add some supe
 
 From the ingredients above I made about 2 ltr of sauce. It’s great for sharing—give some to family and friends. If you don’t want to make your own sauce then let me know and **I might offer it via Veggie Bite**.
 
-![tomato red pepper sauce](/img/tomato-pepper-sauce.jpg) 
+![tomato red pepper sauce](/img/tomato-pepper-sauce.jpg)
